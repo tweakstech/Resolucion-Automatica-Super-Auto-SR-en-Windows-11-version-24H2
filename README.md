@@ -1,0 +1,1 @@
+# Resoluci-n-Autom-tica-Super-Auto-SR-en-Windows-11-versi-n-24H2
