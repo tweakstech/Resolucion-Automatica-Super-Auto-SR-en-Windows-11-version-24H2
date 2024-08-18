@@ -39,8 +39,8 @@ Cuando inicies un juego que admita Auto SR, verás una notificación confirmando
 - Una PC Copilot+ con procesador Snapdragon® X Series con Hexagon NPU y una GPU integrada.
 - Windows 11, versión 24H2 o posterior.
 - Los controladores más recientes de gráficos y procesadores neurales. Para verificar manualmente las actualizaciones, ve a **Inicio > Configuración > Actualización y seguridad > Windows Update**, luego selecciona Buscar actualizaciones.
-- Una resolución de pantalla de 1080p o superior.
-- La versión más reciente del paquete de Auto Super Resolution.
+- Un monitor con resolución Full HD (1080p) o superior.
+- La versión más reciente del paquete de Auto Super Resolution, que puedes encontrar [aquí](https://apps.microsoft.com/detail/9pgwvx8tm6xz).
 
 ## Requisitos del Juego
 
@@ -70,7 +70,6 @@ Para desactivar Auto SR para un juego, ve a **Configuración > Sistema > Pantall
 
 > [!NOTE]
 > Microsoft se compromete a utilizar la IA de manera responsable y proteger la privacidad. Todo el procesamiento para mejorar los visuales del juego se realiza en el dispositivo utilizando la GPU integrada y la Unidad de Procesamiento Neural (NPU). Los gráficos y detalles del juego nunca salen de tu dispositivo ni se comparten en la nube o con Microsoft. Para más información, revisa la declaración de privacidad de Microsoft.
-
 
 ---
 
